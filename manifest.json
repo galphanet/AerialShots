@@ -1,0 +1,13 @@
+{
+    "name": "Galphanet drone shots",
+    "description": "Multiples locations, mainly Canada and Switzerland",
+    "scenes": [
+      "landscape",
+      "sea",
+      "countryside",
+      "city"
+    ],
+    "manifestUrl": "https://raw.githubusercontent.com/galphanet/AerialShots/main/entries.json",
+    "local": false,
+    "cacheable": true
+}
