@@ -1,0 +1,17 @@
+{
+    "assets": [
+        {
+            "id": "galphanet_leman122022",
+            "pointsOfInterest": {
+                "0": "Flying above Geneva Lake, Lausanne, Switzerland"
+            },
+            "title": "Geneva Lake",
+            "accessibilityLabel": "Switzerland",
+            "scene": "nature",
+            "timeOfDay": "day",
+            "url-1080-H264": "https://github.com/galphanet/AerialShots/releases/download/galphanet_leman122022/leman_1080p_h264.m4v"
+        }
+    ],
+    "version": 1,
+    "initialAssetCount": 1
+}
